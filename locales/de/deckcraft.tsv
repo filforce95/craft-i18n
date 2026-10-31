@@ -80,7 +80,10 @@
 	Background\nStyles	Hintergrund-\nformate
 	Banded Columns	Gebänderte Spalten
 	Banded Rows	Gebänderte Zeilen
+	Before you share it, check the presentation for things people with disabilities might find hard to read.	Prüfen Sie vor dem Teilen, ob die Präsentation Inhalte enthält, die für Menschen mit Behinderungen schwer lesbar sein könnten.
+	Black Pen	Schwarzer Stift
 	Blank Presentation	Leere Präsentation
+	Blue Pen	Blauer Stift
 	Body:	Textkörper:
 	Bring\nForward	Nach vorne\nbringen
 	Browse for Themes…	Nach Designs suchen…
@@ -271,6 +274,7 @@
 	Heading and body fonts for this presentation.	Überschrift- und Textschriftarten dieser Präsentation.
 	Heading:	Überschrift:
 	Heavy	Dick
+	Height (in):	Höhe (Zoll):
 	Height ({abbr}):	Höhe ({abbr}):
 	Hide background graphics	Hintergrundgrafiken ausblenden
 	Hide Background Graphics	Hintergrundgrafiken ausblenden
@@ -278,6 +282,7 @@
 	Hide Slide	Folie ausblenden
 	Hide\nSlide	Folie\nausblenden
 	Highlight click	Klick hervorheben
+	Highlighter	Textmarker
 	How would you describe this object and its context to someone who is blind or has low vision?	Wie würden Sie dieses Objekt und seinen Kontext einer blinden oder sehbehinderten Person beschreiben?
 	Icons	Symbole
 	Include hidden slides	Ausgeblendete Folien einschließen
@@ -317,6 +322,7 @@
 	Join our community on Discord	Treten Sie unserer Community auf Discord bei
 	Join the ArtCraft community on Discord	Treten Sie der ArtCraft-Community auf Discord bei
 	Justify low	Blocksatz unten
+	Keep mouse cursor visible	Mauszeiger sichtbar lassen
 	Keep source formatting	Ursprüngliche Formatierung beibehalten
 	Keeps the layout, fonts and pictures	Behält Layout, Schriftarten und Bilder bei
 	Language for All Text	Sprache für gesamten Text
@@ -384,6 +390,7 @@
 	Notes Page	Notizenseite
 	Notes Placeholders	Notizen-Platzhalter
 	Notes\nMaster	Notizen-\nmaster
+	Notes\nPage	Notizen-\nseite
 	Nothing to print: every slide in the range is hidden.	Nichts zu drucken: Alle Folien im Bereich sind ausgeblendet.
 	Nudge	Schrittweise verschieben
 	Number of columns:	Anzahl der Spalten:
@@ -398,12 +405,14 @@
 	Open file location	Dateispeicherort öffnen
 	Open Path	Pfad öffnen
 	Open source under MIT OR Apache-2.0. Not affiliated with Microsoft.	Open Source unter MIT OR Apache-2.0. Nicht mit Microsoft verbunden.
+	Opens in PowerPoint and other presentation apps	Wird in PowerPoint und anderen Präsentationsprogrammen geöffnet
 	Opens on any device with a PDF viewer	Lässt sich auf jedem Gerät mit PDF-Viewer öffnen
 	Order Objects	Objekte anordnen
 	Ordinals (1st) with superscript	Ordnungszahlen (1st) hochstellen
 	Other Sound…	Anderer Sound…
 	Outline	Gliederung
 	Outline View	Gliederungsansicht
+	Outline\nView	Gliederungs-\nansicht
 	Page Setup…	Seite einrichten…
 	Paper size	Papierformat
 	Paragraph…	Absatz…
@@ -462,10 +471,12 @@
 	Quick Styles	Schnellformatvorlagen
 	Quick\nStyles	Schnell-\nformate
 	Reading View	Leseansicht
+	Reading\nView	Lese-\nansicht
 	Recolor	Neu einfärben
 	Record	Aufzeichnen
 	Recording narration needs audio capture (coming soon)	Zum Aufzeichnen von Kommentaren wird eine Audioaufnahme benötigt (folgt bald)
 	Recover Unsaved Presentations	Nicht gespeicherte Präsentationen wiederherstellen
+	Red Pen	Roter Stift
 	Reflection	Spiegelung
 	Regroup	Gruppierung wiederherstellen
 	Rehearse\nTimings	Neue Zeiten\nüben
@@ -581,11 +592,13 @@
 	Slide\nMaster	Folien-\nmaster
 	Slide\nNumber	Folien-\nnummer
 	Slide\nSize	Folien-\ngröße
+	Slide\nSorter	Folien-\nsortierung
 	Slides	Folien
 	Slides (e.g. 1,3,5):	Folien (z. B. 1,3,5):
 	Slides from Outline	Folien aus Gliederung
 	Slides from Outline…	Folien aus Gliederung…
 	Slides per page	Folien pro Seite
+	Slides Per\nPage	Folien pro\nSeite
 	Slides sized for:	Foliengröße für:
 	Slides:	Folien:
 	Small caps	Kapitälchen
@@ -605,6 +618,7 @@
 	Split\nCells	Zellen\nteilen
 	Standard Colors	Standardfarben
 	Start Automatically	Automatisch starten
+	Start from Beginning	Von Anfang an
 	Start time (s):	Startzeit (s):
 	System language	Systemsprache
 	Tab stop position (in):	Tabstoppposition (Zoll):
@@ -632,9 +646,11 @@
 	Text\nPane	Text-\nbereich
 	The presentation keeps its own file	Die Präsentation behält ihre eigene Datei
 	The spelling check is complete. No issues found.	Die Rechtschreibprüfung ist abgeschlossen. Keine Probleme gefunden.
+	The version, the people and models who built it, and where to find us.	Die Version, die Menschen und Modelle dahinter und wo Sie uns finden.
 	Theme Colors	Designfarben
 	Themes	Designs
 	Themes (whole presentation)	Designs (gesamte Präsentation)
+	There are no unsaved changes.	Es gibt keine nicht gespeicherten Änderungen.
 	This presentation has no custom shows (Slide Show ▸ Custom Slide Show).	Diese Präsentation hat keine benutzerdefinierten Präsentationen (Bildschirmpräsentation ▸ Benutzerdefinierte Bildschirmpräsentation).
 	Three a page leaves lines for notes	Drei pro Seite lässt Linien für Notizen frei
 	Tile picture as texture	Bild als Textur nebeneinander anordnen
@@ -662,6 +678,7 @@
 	Volume	Lautstärke
 	Wavy	Gewellt
 	Widescreen (16:9)	Breitbild (16:9)
+	Width (in):	Breite (Zoll):
 	Width (pixels):	Breite (Pixel):
 	Width ({abbr}):	Breite ({abbr}):
 	Width: 	Breite: 
