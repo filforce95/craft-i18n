@@ -205,6 +205,7 @@
 	Decimal	Dezimal
 	Decimal Tab	Dezimaltabstopp
 	DeckCraft Presentation (*.deckcraft)	DeckCraft-Präsentation (*.deckcraft)
+	DeckCraft can't find “{text}”.	DeckCraft findet „{text}“ nicht.
 	DeckCraft has no accounts: there is nothing to sign in to, and your presentations stay on your device.	DeckCraft hat keine Konten: Es gibt nichts, wofür Sie sich anmelden müssten, und Ihre Präsentationen bleiben auf Ihrem Gerät.
 	DeckCraft prints through a PDF: it downloads, ready to print from your browser or PDF viewer.	DeckCraft druckt über eine PDF-Datei: Sie wird heruntergeladen und kann aus Ihrem Browser oder PDF-Viewer gedruckt werden.
 	DeckCraft prints through a PDF: it opens in your PDF viewer, where you choose the printer.	DeckCraft druckt über eine PDF-Datei: Sie öffnet sich in Ihrem PDF-Viewer, dort wählen Sie den Drucker.
@@ -412,6 +413,8 @@
 	Mark as decorative	Als dekorativ markieren
 	Mark selected text as:	Markierten Text kennzeichnen als:
 	Match case	Groß-/Kleinschreibung beachten
+	Match {n} of {total} on slide {slide} (notes).	Treffer {n} von {total} auf Folie {slide} (Notizen).
+	Match {n} of {total} on slide {slide}.	Treffer {n} von {total} auf Folie {slide}.
 	Maximize content (else ensure fit)	Inhalt maximieren (sonst Passform sicherstellen)
 	Measurement units:	Maßeinheiten:
 	Media position	Medienposition
@@ -458,7 +461,9 @@
 	No notes.	Keine Notizen.
 	No pictures yet	Noch keine Bilder
 	No presentation is open.	Keine Präsentation geöffnet.
+	No recent presentations match “{query}”.	Keine zuletzt verwendete Präsentation passt zu „{query}“.
 	No synonyms for "{word}".	Keine Synonyme für „{word}“.
+	No themes or templates match “{query}”.	Keine Designs oder Vorlagen passen zu „{query}“.
 	No {lang} dictionary is installed, so only common misspellings are found. Put a Hunspell .aff/.dic pair in {folder}.	Es ist kein Wörterbuch für {lang} installiert, daher werden nur häufige Tippfehler gefunden. Legen Sie ein Hunspell-Dateipaar (.aff/.dic) in {folder} ab.
 	Not a copy of this presentation: slides are matched by position.	Keine Kopie dieser Präsentation: Folien werden nach ihrer Position zugeordnet.
 	Not saved yet	Noch nicht gespeichert
@@ -612,6 +617,7 @@
 	Reset to Defaults	Auf Standard zurücksetzen
 	Resolve	Erledigen
 	Resolve Thread	Unterhaltung erledigen
+	Return to the audience window to resume the connection.	Kehren Sie zum Publikumsfenster zurück, um die Verbindung fortzusetzen.
 	Reuse Slides	Folien wiederverwenden
 	Reuse Slides…	Folien wiederverwenden…
 	Rewind after Playing	Nach Wiedergabe zurückspulen
@@ -749,6 +755,8 @@
 	Text Transparency	Texttransparenz
 	Text\nBox	Text-\nfeld
 	Text\nPane	Text-\nbereich
+	The audience window has closed.	Das Publikumsfenster wurde geschlossen.
+	The audience window is not responding.	Das Publikumsfenster reagiert nicht.
 	The presentation keeps its own file	Die Präsentation behält ihre eigene Datei
 	The spelling check is complete. No issues found.	Die Rechtschreibprüfung ist abgeschlossen. Keine Probleme gefunden.
 	Theme Colors	Designfarben
@@ -785,6 +793,7 @@
 	Very tight	Sehr eng
 	Video from File…	Video aus Datei…
 	Volume	Lautstärke
+	Waiting for the audience window…	Warten auf das Publikumsfenster…
 	Wavy	Gewellt
 	Web Page or File	Webseite oder Datei
 	Whole presentation	Gesamte Präsentation
@@ -810,6 +819,7 @@
 	{path} — this file can't be found	{path} – diese Datei wurde nicht gefunden
 	“{name}” is not available yet.	„{name}“ ist noch nicht verfügbar.
 @plural	First {n} slide|First {n} slides	Die erste {n} Folie|Die ersten {n} Folien
+@plural	Replaced {n} occurrence.|Replaced {n} occurrences.	{n} Vorkommen ersetzt.|{n} Vorkommen ersetzt.
 @plural	{name} ({n} slide)|{name} ({n} slides)	{name} ({n} Folie)|{name} ({n} Folien)
 @plural	{n} Column|{n} Columns	{n} Spalte|{n} Spalten
 @plural	{n} Slide|{n} Slides	{n} Folie|{n} Folien
