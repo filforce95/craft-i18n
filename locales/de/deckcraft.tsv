@@ -31,6 +31,7 @@
 	3-D Rotation	3D-Drehung
 	4 pictures	4 Bilder
 	4 pictures with title	4 Bilder mit Titel
+	A photo album holds at most 48 pictures or text boxes	Ein Fotoalbum enthält höchstens 48 Bilder oder Textfelder
 	About DeckCraft	Über DeckCraft
 	Accent 1	Akzent 1
 	Accent 2	Akzent 2
@@ -49,6 +50,7 @@
 	Action Settings…	Aktionseinstellungen…
 	Action on click	Aktion bei Mausklick
 	Action on mouse over	Aktion bei Mausübergang
+	Add a picture or a text box first	Fügen Sie zuerst ein Bild oder ein Textfeld hinzu
 	Add a title with a picture or some text to get layout ideas.	Fügen Sie einen Titel mit einem Bild oder etwas Text hinzu, um Layoutideen zu erhalten.
 	Add Animation	Animation hinzufügen
 	Add Pictures…	Bilder hinzufügen…
@@ -112,6 +114,7 @@
 	Body:	Textkörper:
 	Brightness {pct}	Helligkeit {pct}
 	Bring\nForward	Nach vorne\nbringen
+	Browse for Themes needs the desktop app for now	Nach Designs suchen erfordert vorerst die Desktop-App
 	Browse for Themes…	Nach Designs suchen…
 	Bulleted	Aufzählung
 	Bullets	Aufzählungszeichen
@@ -137,6 +140,7 @@
 	Change to:	Ändern in:
 	Change\nChart Type	Diagrammtyp\nändern
 	Character Spacing	Zeichenabstand
+	Character spacing must be a number	Der Zeichenabstand muss eine Zahl sein
 	Chart	Diagramm
 	Chart cell	Diagrammzelle
 	Chart Data	Diagrammdaten
@@ -146,6 +150,7 @@
 	Check for Updates…	Nach Updates suchen…
 	Check\nAccessibility	Barrierefreiheit\nprüfen
 	Choose a SmartArt Graphic	SmartArt-Grafik auswählen
+	Choose a font	Wählen Sie eine Schriftart
 	Choose where to save	Speicherort auswählen
 	Choosing a presentation to reuse needs the desktop app	Zum Auswählen einer Präsentation zur Wiederverwendung wird die Desktop-App benötigt
 	Choosing a sound file needs the desktop app	Zum Auswählen einer Audiodatei wird die Desktop-App benötigt
@@ -154,9 +159,17 @@
 	Clear the tab at {pos}	Tabstopp bei {pos} löschen
 	Click a colour in the picture to make it transparent	Klicken Sie auf eine Farbe im Bild, um sie transparent zu machen
 	Click a symbol to insert it at the insertion point.	Klicken Sie auf ein Symbol, um es an der Einfügemarke einzufügen.
+	Click icon to add SmartArt graphic	Auf das Symbol klicken, um eine SmartArt-Grafik hinzuzufügen
+	Click icon to add chart	Auf das Symbol klicken, um ein Diagramm hinzuzufügen
+	Click icon to add media	Auf das Symbol klicken, um Medien hinzuzufügen
+	Click icon to add picture	Auf das Symbol klicken, um ein Bild hinzuzufügen
+	Click icon to add table	Auf das Symbol klicken, um eine Tabelle hinzuzufügen
 	Click the slide to take the colour under the pointer	Klicken Sie auf die Folie, um die Farbe unter dem Zeiger aufzunehmen
+	Click to add first slide	Klicken, um die erste Folie hinzuzufügen
 	Click to add notes	Klicken, um Notizen hinzuzufügen
+	Click to add subtitle	Klicken, um Untertitel hinzuzufügen
 	Click to add text	Klicken, um Text hinzuzufügen
+	Click to add title	Klicken, um Titel hinzuzufügen
 	Click to change this one; Shift-click to change all	Klicken ändert diese Stelle, Umschalt-Klick ändert alle
 	Close Path	Pfad schließen
 	Close\nMaster View	Masteransicht\nschließen
@@ -164,6 +177,7 @@
 	Columns…	Spalten…
 	Command Palette	Befehlspalette
 	Community Links	Community-Links
+	Compare needs the desktop app for now	Vergleichen erfordert vorerst die Desktop-App
 	Compare this presentation with a revised copy from Review › Compare.	Vergleichen Sie diese Präsentation über Überprüfen › Vergleichen mit einer überarbeiteten Kopie.
 	Compared with {name}	Verglichen mit {name}
 	Compare…	Vergleichen…
@@ -175,10 +189,12 @@
 	Convert to Shapes	In Formen umwandeln
 	Convert to SmartArt	In SmartArt umwandeln
 	Convert to Text	In Text umwandeln
+	Copied the path	Pfad kopiert
 	Copy path	Pfad kopieren
 	Correct accidental use of cAPS LOCK key	Versehentliches Verwenden der fESTSTELLTASTE korrigieren
 	Correct TWo INitial CApitals	ZWei GRoßbuchstaben am WOrtanfang korrigieren
 	Corrections	Korrekturen
+	Couldn't save AutoRecover information: {error}	AutoWiederherstellen-Informationen konnten nicht gespeichert werden: {error}
 	Create a PDF Document	PDF-Dokument erstellen
 	Create Handouts	Handzettel erstellen
 	Create New Theme Colors	Neue Designfarben erstellen
@@ -205,6 +221,7 @@
 	Decimal	Dezimal
 	Decimal Tab	Dezimaltabstopp
 	DeckCraft Presentation (*.deckcraft)	DeckCraft-Präsentation (*.deckcraft)
+	DeckCraft can't export “{format}”	DeckCraft kann nicht als „{format}“ exportieren
 	DeckCraft can't find “{text}”.	DeckCraft findet „{text}“ nicht.
 	DeckCraft has no accounts: there is nothing to sign in to, and your presentations stay on your device.	DeckCraft hat keine Konten: Es gibt nichts, wofür Sie sich anmelden müssten, und Ihre Präsentationen bleiben auf Ihrem Gerät.
 	DeckCraft prints through a PDF: it downloads, ready to print from your browser or PDF viewer.	DeckCraft druckt über eine PDF-Datei: Sie wird heruntergeladen und kann aus Ihrem Browser oder PDF-Viewer gedruckt werden.
@@ -267,10 +284,12 @@
 	End\nReview	Überprüfung\nbeenden
 	English (United Kingdom)	Englisch (Vereinigtes Königreich)
 	English (United States)	Englisch (USA)
+	Enter a zoom percent	Geben Sie einen Zoomfaktor in Prozent ein
 	Equation	Formel
 	Exactly	Genau
 	Exit Edit Points	Punktbearbeitung beenden
 	Export the presentation as:	Präsentation exportieren als:
+	Exported {name}	{name} exportiert
 	Extra Large (1920 px wide)	Sehr groß (1920 px breit)
 	Fade in (s):	Einblenden (s):
 	Fade out (s):	Ausblenden (s):
@@ -286,6 +305,7 @@
 	Follow Path	Pfad folgen
 	Font Color	Schriftfarbe
 	Font name	Schriftartname
+	Font size must be a number	Der Schriftgrad muss eine Zahl sein
 	Font…	Schriftart…
 	Footer	Fußzeile
 	Footers	Fußzeilen
@@ -348,6 +368,8 @@
 	Include hidden slides	Ausgeblendete Folien einschließen
 	Increase List Level	Listenebene erhöhen
 	Increase {label}	{label} erhöhen
+	Indent after text must be a number of inches	Der Einzug nach dem Text muss eine Zahl in Zoll sein
+	Indent before text must be a number of inches	Der Einzug vor dem Text muss eine Zahl in Zoll sein
 	Indentation	Einzug
 	Ink to Math (coming soon)	Freihand in Formel (folgt bald)
 	Ink to Shape	Freihand in Form
@@ -403,6 +425,7 @@
 	Light/Dark appearance	Helle/dunkle Darstellung
 	Line Spacing	Zeilenabstand
 	Line Spacing Options…	Zeilenabstandsoptionen…
+	Line spacing must be a number	Der Zeilenabstand muss eine Zahl sein
 	Lock aspect ratio	Seitenverhältnis sperren
 	Loop continuously until 'Esc'	Wiederholen, bis „Esc“ gedrückt wird
 	Loop forever	Endlos wiederholen
@@ -489,6 +512,7 @@
 	Open file location	Dateispeicherort öffnen
 	Open Path	Pfad öffnen
 	Open source under MIT OR Apache-2.0. Not affiliated with Microsoft.	Open Source unter MIT OR Apache-2.0. Nicht mit Microsoft verbunden.
+	Opened the presentation as a PDF to print	Präsentation zum Drucken als PDF geöffnet
 	Opening {name}…	{name} wird geöffnet…
 	Opens on any device with a PDF viewer	Lässt sich auf jedem Gerät mit PDF-Viewer öffnen
 	Order Objects	Objekte anordnen
@@ -507,6 +531,7 @@
 	Page Setup…	Seite einrichten…
 	Paper size	Papierformat
 	Paragraph…	Absatz…
+	Pass pictures to insert.photoAlbum	Übergeben Sie die Bilder an insert.photoAlbum
 	Paste (⌘V)	Einfügen (⌘V)
 	Paste and Match Formatting	Einfügen und Formatierung anpassen
 	Paste Formatting	Formatierung einfügen
@@ -553,6 +578,7 @@
 	Presenter\nView	Referenten-\nansicht
 	Preset gradients	Voreingestellte Farbverläufe
 	Preview Animations	Animationsvorschau
+	Previewing animations	Vorschau der Animationen
 	Previous Slide	Vorherige Folie
 	Print Hidden Slides	Ausgeblendete Folien drucken
 	Print layout	Drucklayout
@@ -619,6 +645,7 @@
 	Resolve Thread	Unterhaltung erledigen
 	Return to the audience window to resume the connection.	Kehren Sie zum Publikumsfenster zurück, um die Verbindung fortzusetzen.
 	Reuse Slides	Folien wiederverwenden
+	Reuse Slides needs the desktop app	Folien wiederverwenden erfordert die Desktop-App
 	Reuse Slides…	Folien wiederverwenden…
 	Rewind after Playing	Nach Wiedergabe zurückspulen
 	Ribbon Tab	Registerkarte des Menübands
@@ -635,6 +662,8 @@
 	Saturation {pct}	Sättigung {pct}
 	Save as type	Dateityp
 	Save to the page	Auf der Seite speichern
+	Saved {name}	{name} gespeichert
+	Saving a copy needs a file picker, which this window doesn't have.	Zum Speichern einer Kopie wird eine Dateiauswahl benötigt, die dieses Fenster nicht hat.
 	Scheme name	Name des Schemas
 	Screenshot	Bildschirmfoto
 	Screenshot (not available yet)	Bildschirmfoto (noch nicht verfügbar)
@@ -691,6 +720,7 @@
 	Slide Show	Bildschirmpräsentation
 	Slide Size	Foliengröße
 	Slide Sorter	Foliensortierung
+	Slide timings recorded.	Folienzeiten aufgezeichnet.
 	Slide {n}	Folie {n}
 	Slide {n} of {total}	Folie {n} von {total}
 	Slide {n}: {issue}	Folie {n}: {issue}
@@ -722,13 +752,18 @@
 	Spacing (in):	Abstand (Zoll):
 	Spacing (pt):	Abstand (pt):
 	Spacing after	Abstand nach
+	Spacing after must be a number	Der Abstand nach muss eine Zahl sein
 	Spacing before	Abstand vor
+	Spacing before must be a number	Der Abstand vor muss eine Zahl sein
+	Special indent must be a number of inches	Der Sondereinzug muss eine Zahl in Zoll sein
 	Spelling is checked for languages marked (dictionary).	Die Rechtschreibung wird für Sprachen geprüft, die mit (dictionary) markiert sind.
 	Split Cells	Zellen teilen
 	Split\nCells	Zellen\nteilen
 	Standard Colors	Standardfarben
 	Start Automatically	Automatisch starten
 	Start time (s):	Startzeit (s):
+	Still opening {name}	{name} wird noch geöffnet
+	Stopped opening {name}	Öffnen von {name} abgebrochen
 	Style {n}	Format {n}
 	Swedish	Schwedisch
 	System language	Systemsprache
@@ -753,18 +788,27 @@
 	Text Shadow	Textschatten
 	Text Transform	Texttransformation
 	Text Transparency	Texttransparenz
+	Text is longer than 400 characters	Der Text ist länger als 400 Zeichen
 	Text\nBox	Text-\nfeld
 	Text\nPane	Text-\nbereich
+	That file is empty	Diese Datei ist leer
+	That picture is larger than 32 MB	Dieses Bild ist größer als 32 MB
+	The Eyedropper takes colours from a slide	Die Pipette nimmt Farben von einer Folie auf
 	The audience window has closed.	Das Publikumsfenster wurde geschlossen.
 	The audience window is not responding.	Das Publikumsfenster reagiert nicht.
+	The picture list is invalid	Die Bilderliste ist ungültig
 	The presentation keeps its own file	Die Präsentation behält ihre eigene Datei
 	The spelling check is complete. No issues found.	Die Rechtschreibprüfung ist abgeschlossen. Keine Probleme gefunden.
+	The web build inserts album pictures from data passed to insert.photoAlbum	Die Webversion fügt Albumbilder aus Daten ein, die an insert.photoAlbum übergeben werden
 	Theme Colors	Designfarben
 	Themes	Designs
 	Themes (whole presentation)	Designs (gesamte Präsentation)
+	There are no unsaved presentations to recover	Es gibt keine nicht gespeicherten Präsentationen zum Wiederherstellen
 	This Document	Dieses Dokument
 	This presentation has no custom shows (Slide Show ▸ Custom Slide Show).	Diese Präsentation hat keine benutzerdefinierten Präsentationen (Bildschirmpräsentation ▸ Benutzerdefinierte Bildschirmpräsentation).
+	This slide has no animations	Diese Folie hat keine Animationen
 	Three a page leaves lines for notes	Drei pro Seite lässt Linien für Notizen frei
+	Tick at least one slide to insert	Wählen Sie mindestens eine Folie zum Einfügen aus
 	Tight	Eng
 	Tile picture as texture	Bild als Textur nebeneinander anordnen
 	Timing	Anzeigedauer
@@ -781,6 +825,7 @@
 	Type an equation in linear form (e.g. a^2+b^2=c^2, x=(-b±√(b^2-4ac))/2a).	Geben Sie eine Formel in linearer Form ein (z. B. a^2+b^2=c^2, x=(-b±√(b^2-4ac))/2a).
 	Type and organise the diagram's text	Text des Diagramms eingeben und gliedern
 	Type Text	Text eingeben
+	Type the text for the new text box	Geben Sie den Text für das neue Textfeld ein
 	Type your text here	Geben Sie hier Ihren Text ein
 	Update automatically	Automatisch aktualisieren
 	Use Destination Theme	Zieldesign verwenden
@@ -819,6 +864,7 @@
 	{path} — this file can't be found	{path} – diese Datei wurde nicht gefunden
 	“{name}” is not available yet.	„{name}“ ist noch nicht verfügbar.
 @plural	First {n} slide|First {n} slides	Die erste {n} Folie|Die ersten {n} Folien
+@plural	Inserted {n} slide|Inserted {n} slides	{n} Folie eingefügt|{n} Folien eingefügt
 @plural	Replaced {n} occurrence.|Replaced {n} occurrences.	{n} Vorkommen ersetzt.|{n} Vorkommen ersetzt.
 @plural	{name} ({n} slide)|{name} ({n} slides)	{name} ({n} Folie)|{name} ({n} Folien)
 @plural	{n} Column|{n} Columns	{n} Spalte|{n} Spalten
