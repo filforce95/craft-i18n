@@ -72,6 +72,7 @@
 	Align text to the bottom of the cell	Text am unteren Zellenrand ausrichten
 	Align text to the center of the cell	Text in der Zellenmitte ausrichten
 	Align text to the top of the cell	Text am oberen Zellenrand ausrichten
+	All slides	Alle Folien
 	Alt Text	Alternativtext
 	Alt text	Alternativtext
 	Alt\nText	Alternativ-\ntext
@@ -102,6 +103,7 @@
 	Available formats:	Verfügbare Formate:
 	Back	Zurück
 	Back (Esc)	Zurück (Esc)
+	Back or Previous	Zurück oder vorherige
 	Background\nStyles	Hintergrund-\nformate
 	Banded Columns	Gebänderte Spalten
 	Banded Rows	Gebänderte Zeilen
@@ -109,13 +111,18 @@
 	Basic List	Einfache Liste
 	Basic Process	Einfacher Prozess
 	Before text	Vor Text
+	Beginning	Anfang
+	Bevel	Abschrägung
 	Blank Presentation	Leere Präsentation
 	Body sample  {font}	Beispiel Text  {font}
 	Body:	Textkörper:
 	Brightness {pct}	Helligkeit {pct}
+	Brightness {pct}%	Helligkeit {pct} %
 	Bring\nForward	Nach vorne\nbringen
 	Browse for Themes needs the desktop app for now	Nach Designs suchen erfordert vorerst die Desktop-App
 	Browse for Themes…	Nach Designs suchen…
+	Browsed at a kiosk (full screen)	An einem Kiosk durchgesehen (Vollbild)
+	Browsed by an individual (window)	Von einer Person durchgesehen (Fenster)
 	Bulleted	Aufzählung
 	Bullets	Aufzählungszeichen
 	Bullets and Numbering	Aufzählungszeichen und Nummerierung
@@ -151,6 +158,7 @@
 	Check\nAccessibility	Barrierefreiheit\nprüfen
 	Choose a SmartArt Graphic	SmartArt-Grafik auswählen
 	Choose a font	Wählen Sie eine Schriftart
+	Choose a slide to show it, or press G to return.	Wählen Sie eine Folie aus, um sie anzuzeigen, oder drücken Sie G, um zurückzukehren.
 	Choose where to save	Speicherort auswählen
 	Choosing a presentation to reuse needs the desktop app	Zum Auswählen einer Präsentation zur Wiederverwendung wird die Desktop-App benötigt
 	Choosing a sound file needs the desktop app	Zum Auswählen einer Audiodatei wird die Desktop-App benötigt
@@ -164,6 +172,7 @@
 	Click icon to add media	Auf das Symbol klicken, um Medien hinzuzufügen
 	Click icon to add picture	Auf das Symbol klicken, um ein Bild hinzuzufügen
 	Click icon to add table	Auf das Symbol klicken, um eine Tabelle hinzuzufügen
+	Click the preview to zoom.	Klicken Sie auf die Vorschau, um zu zoomen.
 	Click the slide to take the colour under the pointer	Klicken Sie auf die Folie, um die Farbe unter dem Zeiger aufzunehmen
 	Click to add first slide	Klicken, um die erste Folie hinzuzufügen
 	Click to add notes	Klicken, um Notizen hinzuzufügen
@@ -186,6 +195,8 @@
 	Compression options	Komprimierungsoptionen
 	Connect Shapes	Formen verbinden
 	Contrast {pct}	Kontrast {pct}
+	Contrast {pct}%	Kontrast {pct} %
+	Convert to Diagram	In Schaubild umwandeln
 	Convert to Shapes	In Formen umwandeln
 	Convert to SmartArt	In SmartArt umwandeln
 	Convert to Text	In Text umwandeln
@@ -215,6 +226,7 @@
 	Dark Mode	Dunkler Modus
 	Dark\nMode	Dunkler\nModus
 	Dash	Strichart
+	Dashes	Striche
 	Date & Time	Datum & Uhrzeit
 	Date &\nTime	Datum &\nUhrzeit
 	Date and time	Datum und Uhrzeit
@@ -226,6 +238,8 @@
 	DeckCraft has no accounts: there is nothing to sign in to, and your presentations stay on your device.	DeckCraft hat keine Konten: Es gibt nichts, wofür Sie sich anmelden müssten, und Ihre Präsentationen bleiben auf Ihrem Gerät.
 	DeckCraft prints through a PDF: it downloads, ready to print from your browser or PDF viewer.	DeckCraft druckt über eine PDF-Datei: Sie wird heruntergeladen und kann aus Ihrem Browser oder PDF-Viewer gedruckt werden.
 	DeckCraft prints through a PDF: it opens in your PDF viewer, where you choose the printer.	DeckCraft druckt über eine PDF-Datei: Sie öffnet sich in Ihrem PDF-Viewer, dort wählen Sie den Drucker.
+	Decorative Text	Dekorativer Text
+	Decorative Text style {n}	Format für dekorativen Text {n}
 	Decrease List Level	Listenebene verringern
 	Decrease {label}	{label} verringern
 	Default tab stops (in):	Standardtabstopps (Zoll):
@@ -246,6 +260,11 @@
 	Demote	Tiefer stufen
 	Design	Entwurf
 	Design\nIdeas	Design-\nideen
+	Diagram	Schaubild
+	Diagram Design	Schaubildentwurf
+	Diagram Styles	Schaubildformatvorlagen
+	Diagram items	Schaubildelemente
+	Diagram text	Schaubildtext
 	Dictionary: {name}	Wörterbuch: {name}
 	Display drawing guides on screen	Zeichnungshilfslinien anzeigen
 	Display grid on screen	Raster anzeigen
@@ -278,8 +297,10 @@
 	Effect\nOptions	Effekt-\noptionen
 	Email Address	E-Mail-Adresse
 	Email address:	E-Mail-Adresse:
+	End	Ende
 	End Review	Überprüfung beenden
 	End Show	Präsentation beenden
+	End of slide show	Ende der Bildschirmpräsentation
 	End trim (s):	Ende kürzen (s):
 	End\nReview	Überprüfung\nbeenden
 	English (United Kingdom)	Englisch (Vereinigtes Königreich)
@@ -316,6 +337,7 @@
 	Format Shape…	Form formatieren…
 	Format\nBackground	Hintergrund\nformatieren
 	Format\nPane	Format-\nbereich
+	Forward or Next	Vorwärts oder nächste
 	Frame shape	Rahmenform
 	Frame Slides	Folien rahmen
 	Freeform	Freihandform
@@ -333,6 +355,7 @@
 	Gradient…	Farbverlauf…
 	Grid Options	Rasteroptionen
 	Grid Options…	Rasteroptionen…
+	Grid and Guides	Raster und Führungslinien
 	Grid\nOptions	Raster-\noptionen
 	Gridlines	Gitternetzlinien
 	Group Objects	Objekte gruppieren
@@ -371,6 +394,7 @@
 	Indent after text must be a number of inches	Der Einzug nach dem Text muss eine Zahl in Zoll sein
 	Indent before text must be a number of inches	Der Einzug vor dem Text muss eine Zahl in Zoll sein
 	Indentation	Einzug
+	Information	Information
 	Ink to Math (coming soon)	Freihand in Formel (folgt bald)
 	Ink to Shape	Freihand in Form
 	Ink to Shape: turn drawn lines, rectangles, ovals and triangles into shapes	Freihand in Form: gezeichnete Linien, Rechtecke, Ellipsen und Dreiecke in Formen umwandeln
@@ -474,12 +498,14 @@
 	New\nSlide	Neue\nFolie
 	New\nWindow	Neues\nFenster
 	Next Slide	Nächste Folie
+	No Soft Edges	Keine weichen Kanten
 	No accessibility issues found. People with disabilities should not have difficulty reading this document.	Keine Probleme mit der Barrierefreiheit gefunden. Menschen mit Behinderungen sollten dieses Dokument ohne Schwierigkeiten lesen können.
 	No comments.	Keine Kommentare.
 	No contributor data was built into this copy.	In diese Version wurden keine Daten zu Mitwirkenden eingebaut.
 	No differences left.	Keine Unterschiede mehr.
 	No Glow	Kein Leuchten
 	No icons match.	Keine passenden Symbole.
+	No line	Keine Linie
 	No model credits were built into this copy.	In diese Version wurden keine Angaben zu Modellen eingebaut.
 	No notes.	Keine Notizen.
 	No pictures yet	Noch keine Bilder
@@ -538,6 +564,9 @@
 	Paste or type an outline. Unindented lines become slide titles; tab-indented lines become bullets.	Fügen Sie eine Gliederung ein oder tippen Sie sie. Nicht eingerückte Zeilen werden Folientitel, mit Tab eingerückte Zeilen werden Aufzählungspunkte.
 	Paste Special…	Inhalte einfügen…
 	Pause animated GIF	Animiertes GIF anhalten
+	Pen Color	Stiftfarbe
+	Pen Style	Stiftart
+	Pen Weight	Stiftstärke
 	Percent:	Prozent:
 	Photo Album	Fotoalbum
 	Photo Album options	Fotoalbum-Optionen
@@ -563,6 +592,7 @@
 	Play Narrations	Kommentare wiedergeben
 	Play the shape's media	Medien der Form wiedergeben
 	Play this slide's animations on the canvas	Animationen dieser Folie auf der Arbeitsfläche abspielen
+	Play this slide's transition	Übergang dieser Folie abspielen
 	Playback	Wiedergabe
 	Point Type	Punkttyp
 	Position and Size	Position und Größe
@@ -574,6 +604,7 @@
 	Presentations	Präsentationen
 	Presentations and slide shows, rebuilt from scratch in pure Rust.	Präsentationen und Bildschirmpräsentationen, von Grund auf neu in reinem Rust gebaut.
 	Presentations you open show up here. Use Open to browse for one.	Präsentationen, die Sie öffnen, erscheinen hier. Mit „Öffnen“ suchen Sie eine aus.
+	Presented by a speaker (full screen)	Von einem Referenten präsentiert (Vollbild)
 	Presenter View	Referentenansicht
 	Presenter\nView	Referenten-\nansicht
 	Preset gradients	Voreingestellte Farbverläufe
@@ -593,6 +624,7 @@
 	Quick Styles	Schnellformatvorlagen
 	Quick\nStyles	Schnell-\nformate
 	Reading View	Leseansicht
+	Reading the file: {seconds} s	Datei wird gelesen: {seconds} s
 	Recolor	Neu einfärben
 	Record	Aufzeichnen
 	Recording narration needs audio capture (coming soon)	Zum Aufzeichnen von Kommentaren wird eine Audioaufnahme benötigt (folgt bald)
@@ -630,6 +662,7 @@
 	Replace straight quotes with smart quotes	Gerade Anführungszeichen durch typografische ersetzen
 	Replace text as you type	Text während der Eingabe ersetzen
 	Replace with:	Ersetzen durch:
+	Replaced “{font}” with “{replacement}”.	„{font}“ wurde durch „{replacement}“ ersetzt.
 	Replace…	Ersetzen…
 	Reply…	Antworten…
 	Rescan Installed Fonts	Installierte Schriftarten neu einlesen
@@ -643,6 +676,7 @@
 	Reset to Defaults	Auf Standard zurücksetzen
 	Resolve	Erledigen
 	Resolve Thread	Unterhaltung erledigen
+	Return	Zurückkehren
 	Return to the audience window to resume the connection.	Kehren Sie zum Publikumsfenster zurück, um die Verbindung fortzusetzen.
 	Reuse Slides	Folien wiederverwenden
 	Reuse Slides needs the desktop app	Folien wiederverwenden erfordert die Desktop-App
@@ -660,6 +694,7 @@
 	Rounded	Abgerundet
 	Run program:	Programm ausführen:
 	Saturation {pct}	Sättigung {pct}
+	Saturation {pct}%	Sättigung {pct} %
 	Save as type	Dateityp
 	Save to the page	Auf der Seite speichern
 	Saved {name}	{name} gespeichert
@@ -677,8 +712,10 @@
 	Search for themes and templates	Nach Designs und Vorlagen suchen
 	Search icons	Symbole suchen
 	Seconds per slide:	Sekunden pro Folie:
+	Seconds per slide: enter {min} to {max}	Sekunden pro Folie: {min} bis {max} eingeben
 	Section	Abschnitt
 	Segment Type	Segmenttyp
+	Select a Diagram graphic to edit its text.	Wählen Sie ein Schaubild aus, um seinen Text zu bearbeiten.
 	Select a chart first.	Wählen Sie zuerst ein Diagramm aus.
 	Select a shape to format it.	Wählen Sie eine Form aus, um sie zu formatieren.
 	Select a SmartArt graphic to edit its text.	Wählen Sie eine SmartArt-Grafik aus, um ihren Text zu bearbeiten.
@@ -720,7 +757,9 @@
 	Slide Show	Bildschirmpräsentation
 	Slide Size	Foliengröße
 	Slide Sorter	Foliensortierung
+	Slide text	Folientext
 	Slide timings recorded.	Folienzeiten aufgezeichnet.
+	Slide title	Folientitel
 	Slide {n}	Folie {n}
 	Slide {n} of {total}	Folie {n} von {total}
 	Slide {n}: {issue}	Folie {n}: {issue}
@@ -737,6 +776,7 @@
 	Slides per page	Folien pro Seite
 	Slides sized for:	Foliengröße für:
 	Slides:	Folien:
+	Slides: choose a range from 1 to {n}	Folien: Bereich von 1 bis {n} wählen
 	Slide…	Folie…
 	Small (640 px wide)	Klein (640 px breit)
 	Small caps	Kapitälchen
@@ -749,6 +789,9 @@
 	Snap objects to grid	Objekte am Raster ausrichten
 	Snap objects to other objects	Objekte an anderen Objekten ausrichten
 	Soft Edges	Weiche Kanten
+	Solid line	Durchgehende Linie
+	Sound	Sound
+	Source on GitHub	Quellcode auf GitHub
 	Spacing (in):	Abstand (Zoll):
 	Spacing (pt):	Abstand (pt):
 	Spacing after	Abstand nach
@@ -814,6 +857,7 @@
 	Timing	Anzeigedauer
 	Timing bar {n}	Zeitbalken {n}
 	To slide:	Bis Folie:
+	Top Left Corner	Obere linke Ecke
 	Total Row	Ergebniszeile
 	Transition	Übergang
 	Transitions	Übergänge
@@ -846,6 +890,7 @@
 	Width (pixels):	Breite (Pixel):
 	Width ({abbr}):	Breite ({abbr}):
 	Width: 	Breite: 
+	Width: enter {min} to {max} pixels	Breite: {min} bis {max} Pixel eingeben
 	Window title bar	Titelleiste des Fensters
 	With	Mit
 	With:	Mit:
@@ -862,6 +907,7 @@
 	{label} value	Wert für {label}
 	{name} options	Optionen für {name}
 	{path} — this file can't be found	{path} – diese Datei wurde nicht gefunden
+	“{font}” isn't used explicitly.	„{font}“ wird nicht ausdrücklich verwendet.
 	“{name}” is not available yet.	„{name}“ ist noch nicht verfügbar.
 @plural	First {n} slide|First {n} slides	Die erste {n} Folie|Die ersten {n} Folien
 @plural	Inserted {n} slide|Inserted {n} slides	{n} Folie eingefügt|{n} Folien eingefügt
